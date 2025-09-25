@@ -1,0 +1,11 @@
+model/*
+.idea/
+__pycache__/
+*.pyc
+*.log
+.env
+/dist
+/build
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
