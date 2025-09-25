@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "048270140433.dkr.ecr.us-east-1.amazonaws.com/housing-model:latest",
+    "Name": "arn:aws:ecr:us-east-1:123456789012:repository/my-repo",
     "Update": "true"
   },
   "Ports": [
