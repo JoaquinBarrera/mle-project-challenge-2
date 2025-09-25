@@ -2,8 +2,8 @@ import pandas as pd
 import requests
 import json
 
-# API_URL = "http://127.0.0.1:8000/predict"
-API_URL= "http://housing-app-env.eba-fmh8pgav.us-east-1.elasticbeanstalk.com/predict"
+API_URL = "http://127.0.0.1:8000/predict"
+
 
 def main():
     # Load unseen data
